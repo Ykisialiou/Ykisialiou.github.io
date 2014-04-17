@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+   <url>images/lviv.jpg</url>
+   <caption><![CDATA[<font size="50"></font><br> </caption>
+   <width></width>
+   <height></height>
+</image>
+<image>
+   <url></url>
+   <caption></caption>
+   <width></width>
+   <height></height>
+</image>
+<image>
+   <url></url>
+   <caption><![CDATA[Captions can be HTML formatted. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, <u><a href="http://www.google.com" target="_blank">hyperlinks</a></u>, linebreaks<br> and <font color="#ffff00" size="60">font tags</font>.]]></caption>
+   <width>700</width>
+   <height>465</height>
+</image>
+<image>
+   <url>images/un.jpg</url>
+   <caption></caption>
+   <width>700</width>
+   <height>711</height>
+</image>
+<image>
+   <url>images/salon.jpg</url>
+   <caption></caption>
+   <width>666</width>
+   <height>768</height>
+</image>
+<image>
+   <url>images/travel.jpg</url>
+   <caption></caption>
+   <width>614</width>
+   <height>768</height>
+</image>
+<image>
+   <url>images/sk.jpg</url>
+   <caption></caption>
+   <width>700</width>
+   <height>736</height>
+</image>
+<image>
+   <url>images/auto3.jpg</url>
+   <caption></caption>
+   <width>609</width>
+   <height>768</height>
+</image>
+
+</gallery>
